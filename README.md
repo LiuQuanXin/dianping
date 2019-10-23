@@ -1,6 +1,6 @@
 # dianping
-大众点评滑动验证码接口
-
+大众点评滑动验证码接口（失效）
+## 服务器过期了，懒得弄了
 需要 返回的参数
   https://verify.meituan.com/v2/ext_api/page_data
 
